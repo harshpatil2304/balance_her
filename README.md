@@ -1,7 +1,8 @@
 # Balance-Her
 
-A new Flutter project.
+"Balance-Her" stands as a dedicated Women's Wellness App tailored to meet the unique needs of working women. Recognizing the daily struggles they encounter in juggling responsibilities, this app serves as an empowering solution. 
 
-## Getting Started
+It enables multitasking women to navigate challenges effectively, fostering the attainment of a much-needed work-life balance for a healthier existence. 
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+In addition to its holistic approach, the app equips users with tools to efficiently prioritize and manage cardiovascular health. This ReadMe file on Github serves as a vital resource, offering detailed insights into the Balance-Her project, its distinctive features, and its overarching goal of enhancing the well-being of its users.
+
